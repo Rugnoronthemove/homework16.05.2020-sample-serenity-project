@@ -1,0 +1,1 @@
+[{"displayName":"Studentinfo","name":"Studentinfo","id":"Studentinfo","type":"feature","narrative":{"name":"Narrative","text":""},"children":[{"displayName":"Student CURD test","name":"Student CURD test","id":"Student CURD test","type":"story","narrative":{"name":"Narrative","text":""},"parent":"Studentinfo"}]}]
